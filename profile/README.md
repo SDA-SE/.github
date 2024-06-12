@@ -1,6 +1,6 @@
 ## Moin Moin! 👋 👋🏿 👋🏻 👋🏽
 
-![Our SDA SE office](./profile/img/Banner_sdase.jpg?raw=true)
+![Our SDA SE office](./img/Banner_sdase.jpg?raw=true)
 
 Founded to digitalize the insurance industry and beyond that!  
 We do that with a user centered approach and a platform featuring "all" the services you need to build these solutions.
