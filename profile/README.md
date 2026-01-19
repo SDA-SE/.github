@@ -16,10 +16,10 @@ Be an active part of the team and contribute your ideas & opinions. Our team lan
 We value humanity, open feedback culture, trust, respect and appreciation.   
 
 ### 🗞️ Our dev blog
-We like best practices and also try (hard) to "regularly" post about some technical challenges we have solved. Get a first [glympse @ medium](https://medium.com/sda-se).  
+We like best practices and also try (hard) to "regularly" post about some technical challenges we have solved. Get a first [glympse @ medium](https://medium.com/sda-se). Or take a look at our new blog on our [SDA SE page](https://sda.se/blog/).
 
-### 👔 Interested in joining? 
-Take a look who your colleagues would be and if you are interested: we are always [looking for talented developers](https://myfuture.sda.se/en/)!  
+### 🗞️ Our managment blog
+While our Medium blog is more developer-focused, our newer blog on [our SDA SE website](https://sda.se/blog/) offers a different perspective, geared toward marked insights, new technologies and strategic updates.
 
 ---
 <sub> Stay up to date about our journey by [following us @ Linkedin](https://www.linkedin.com/company/sdase/).</sub>
