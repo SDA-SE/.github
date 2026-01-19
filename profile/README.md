@@ -19,7 +19,7 @@ We value humanity, open feedback culture, trust, respect and appreciation.
 We like best practices and also try (hard) to "regularly" post about some technical challenges we have solved. Get a first [glympse @ medium](https://medium.com/sda-se). Or take a look at our new blog on our [SDA SE page](https://sda.se/blog/).
 
 ### 🗞️ Our managment blog
-While our Medium blog (last updated a few years ago) was developer-focused, our newer blog on [our SDA SE website](https://sda.se/blog/) offers a different perspective, geared toward marked insights, new technologies and strategic updates.
+While our Medium blog is more developer-focused, our newer blog on [our SDA SE website](https://sda.se/blog/) offers a different perspective, geared toward marked insights, new technologies and strategic updates.
 
 ---
 <sub> Stay up to date about our journey by [following us @ Linkedin](https://www.linkedin.com/company/sdase/).</sub>
